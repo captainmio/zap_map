@@ -45,7 +45,7 @@ After that you can now run the application
 php artisan serve
 ```
 
-Great! You can now do the tests by using this URL Example: `http://127.0.0.1:8000/get-location/51.475603934275675/-2.3807167145198114/100`
+Great! You can now do the tests by using this URL Example: GET Request `http://127.0.0.1:8000/get-location/51.475603934275675/-2.3807167145198114/100`
 
 ## Authors
 
