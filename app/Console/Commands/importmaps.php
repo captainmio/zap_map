@@ -12,7 +12,7 @@ class importmaps extends Command
      *
      * @var string
      */
-    protected $signature = 'import:maps';
+    protected $signature = 'import:locations';
 
     /**
      * The console command description.
